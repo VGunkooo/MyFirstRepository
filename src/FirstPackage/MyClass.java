@@ -6,9 +6,9 @@ public class MyClass {
 
     public MyClass(){}
 
-    public MyClass(String name){
-        this.setName(name);
-    }
+    //public MyClass(String name){
+     //   this.setName(name);
+    //}
 
     public static void print (String frase) {
         System.out.println(frase);
