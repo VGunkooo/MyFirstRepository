@@ -4,7 +4,7 @@ public class MyClass {
 
     private String name;
 
-    public MyClass(){}
+    //public MyClass(){}
 
     //public MyClass(String name){
      //   this.setName(name);
