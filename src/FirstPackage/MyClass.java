@@ -5,7 +5,7 @@ public class MyClass {
     private String name;
 
     public MyClass(String word, int number){
-        System.out.println(word + number);
+        System.out.println(word + number+"7");
     }
 
     public MyClass(String name){
