@@ -4,11 +4,13 @@ public class MyClass {
 
     private String name;
 
-    public MyClass(){}
+    public MyClass(String word, int number){
+        System.out.println(word + number);
+    }
 
-    //public MyClass(String name){
-     //   this.setName(name);
-    //}
+    public MyClass(String name){
+        this.setName(name);
+    }
 
     public static void print (String frase) {
         System.out.println(frase);
